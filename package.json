@@ -1,0 +1,14 @@
+{
+  "name": "relay-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-handler.mjs"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}
